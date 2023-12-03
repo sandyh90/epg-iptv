@@ -1,2 +1,2 @@
 # epg-iptv
-Repo EPG IPTV
+Repository Of EPG IPTV
